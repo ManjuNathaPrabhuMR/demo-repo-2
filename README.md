@@ -5,6 +5,8 @@ Some Description!
 colour changed.
 i am now happy.
 vvvv
+
+diff not showing text
 Some bullshit writing to make some changes
 39:00 time stamp.
 merge conflict checkout text
