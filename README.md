@@ -15,3 +15,8 @@ merge conflict test text
 
  if u r not able to add changes from your feature branch to main branch .and u can only merge it from the main branch.whats the point of feature-branch.lets merge it from featre branch.text.
  in these two lines in the main branch,some keyboard strokes were written like this"rehvfds"
+
+
+ index.html
+ <div>Hello</div> 
+ <p>world</p>
