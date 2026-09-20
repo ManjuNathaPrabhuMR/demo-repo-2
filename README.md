@@ -5,7 +5,7 @@ Some Description!
 colour changed.
 i am now happy.
 
-compare and pull request text
+compare and pull request texts.
 diff not showing text
 Some bullshit writing to make some changes
 56:30 time stamp.
